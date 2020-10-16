@@ -1,0 +1,6 @@
+# Errors on amplitudes 
+# cols: low z, high z 
+# row 1: small R, row2: large R, row3: all R 
+0.0703 
+0.0791 
+0.0552 

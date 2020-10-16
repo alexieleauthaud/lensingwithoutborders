@@ -1,0 +1,6 @@
+# Amplitudes 
+# cols: low nstar, high nstar, all 
+# row 1: small R, row2: large R, row3: all R 
+0.9220 0.9939 0.9745 
+0.9647 1.0232 1.0078 
+0.9434 1.0088 0.9914 

@@ -1,0 +1,6 @@
+# Amplitudes 
+# cols: DES, CFHT, HSC, CS82, KiDS 
+# row 1: small R, row2: large R, row3: all R 
+0.6344 0.6555 0.7925 0.6251 0.7108 
+0.6364 0.7974 0.8635 0.6420 0.6746 
+0.6301 0.7056 0.8246 0.6286 0.6920 

@@ -1,0 +1,6 @@
+# Errors on amplitudes 
+# cols: DES, CFHT, HSC, CS82, KiDS, SDSS 
+# row 1: small R, row2: large R, row3: all R 
+0.0410 0.0336 0.0305 0.0388 0.0519 0.0254 
+0.0779 0.0484 0.0724 0.0802 0.0930 0.0323 
+0.0404 0.0303 0.0320 0.0374 0.0474 0.0232 
