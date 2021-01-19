@@ -1,6 +1,6 @@
 # Amplitudes 
 # cols: low z, high z, all 
 # row 1: small R, row2: large R, row3: all R 
-0.4338 
-0.6161 
-0.5162 
+0.4380 
+0.6197 
+0.5168 

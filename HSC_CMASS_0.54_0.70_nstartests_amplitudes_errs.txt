@@ -1,6 +1,6 @@
 # Errors on amplitudes 
 # cols: low nstar, high nstar 
 # row 1: small R, row2: large R, row3: all R 
-0.0507 0.0294 0.0231 
-0.1742 0.0804 0.0645 
-0.0751 0.0430 0.0300 
+0.0491 0.0300 0.0232 
+0.1735 0.0806 0.0645 
+0.0731 0.0425 0.0295 
