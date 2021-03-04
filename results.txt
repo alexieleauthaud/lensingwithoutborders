@@ -9,6 +9,7 @@ data sample 0 radial range 0
 beta -0.0025
 betaerr 0.0008
 beta sig 3.125
+
 --------
 data sample 0 radial range 1
 beta -0.0017
@@ -32,6 +33,7 @@ beta sig 0.4375
 --------
 data sample 1 radial range 2
 beta -0.0013
+
 betaerr 0.0009
 beta sig 1.4444444444444444
 --------
